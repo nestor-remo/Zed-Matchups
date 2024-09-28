@@ -1,9 +1,8 @@
 # WEB103 Project 1 - Zed Matchups
 
-Submitted by: **Your name here**
+Submitted by: Nestor Reategui
 
-About this web app: **App description here**
-
+About this web app: View Zed Matchups from League of Legends
 Time spent: **X** hours
 
 ## Required Features
@@ -33,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./preview.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  Add GIF tool here
