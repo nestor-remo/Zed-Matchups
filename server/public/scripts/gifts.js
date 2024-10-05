@@ -28,7 +28,7 @@ const renderGifts = async () => {
             bottomContainer.appendChild(difficulty)
 
             const Runes = document.createElement('p')
-            Runes.textContent = 'Runes: ' + gift.Runes
+            Runes.textContent = 'Runes: ' + gift.runes
             bottomContainer.appendChild(Runes)
 
             const link = document.createElement('a')

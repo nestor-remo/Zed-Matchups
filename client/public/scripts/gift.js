@@ -17,7 +17,7 @@ const renderGift = async () => {
         document.getElementById('image').src = gift.image
         document.getElementById('name').textContent = gift.name
         document.getElementById('difficulty').textContent = 'Difficulty: ' + gift.difficulty
-        document.getElementById('Runes').textContent = 'Runes: ' + gift.Runes
+        document.getElementById('Runes').textContent = 'Runes: ' + gift.runes
         document.getElementById('description').textContent = gift.description
 
     }
